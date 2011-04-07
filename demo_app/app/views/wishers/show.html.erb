@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @wisher.name %>
+</p>
+
+<p>
+  <b>Password:</b>
+  <%= @wisher.password %>
+</p>
+
+
+<%= link_to 'Edit', edit_wisher_path(@wisher) %> |
+<%= link_to 'Back', wishers_path %>

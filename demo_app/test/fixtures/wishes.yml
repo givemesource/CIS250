@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  wisher_id: 1
+  description: 
+  due_date: 2011-04-07
+
+two:
+  wisher_id: 1
+  description: 
+  due_date: 2011-04-07
